@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushnandi/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 # Greedy
 |  |
@@ -18,3 +19,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushnandi/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+# Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0074-search-a-2d-matrix) |
