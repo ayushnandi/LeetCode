@@ -27,3 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0074-search-a-2d-matrix) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ayushnandi/LeetCode/tree/master/1916-find-center-of-star-graph) |
