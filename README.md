@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/ayushnandi/LeetCode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1039-find-the-town-judge](https://github.com/ayushnandi/LeetCode/tree/master/1039-find-the-town-judge) |
+| [2388-replace-elements-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2388-replace-elements-in-an-array) |
 # Greedy
 |  |
 | ------- |
@@ -37,3 +38,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/ayushnandi/LeetCode/tree/master/1039-find-the-town-judge) |
+| [2388-replace-elements-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2388-replace-elements-in-an-array) |
+# Simulation
+|  |
+| ------- |
+| [2388-replace-elements-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2388-replace-elements-in-an-array) |
