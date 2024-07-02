@@ -2,8 +2,6 @@ class Solution {
     public int minPathSum(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        // int [][] grid = new int [n][m];
-        // grid[0][0] = grid[0][0];
         for(int i = 1 ; i < n ; i++ ){
             grid[i][0] = grid[i][0]+grid[i-1][0];
         }
