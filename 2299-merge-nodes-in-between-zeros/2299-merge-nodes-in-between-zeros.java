@@ -13,6 +13,7 @@ class Solution {
         ListNode n1 = new ListNode(0);
         ListNode n2 = n1;
         int sum = 0 ;
+        head = head.next;
         while(head!=null){
             if( head.val == 0 ){
                 n1.next = new ListNode(sum);
@@ -22,6 +23,6 @@ class Solution {
             sum += head.val;
             head = head.next;
         }
-        return n2.next.next;
+        return n2.next;
     }
 }
