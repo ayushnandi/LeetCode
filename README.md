@@ -99,5 +99,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
+| [2630-alternating-digit-sum](https://github.com/ayushnandi/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/ayushnandi/LeetCode/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
