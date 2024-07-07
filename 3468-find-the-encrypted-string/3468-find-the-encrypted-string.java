@@ -1,17 +1,12 @@
 class Solution {
     public String getEncryptedString(String s, int k) {
         char[] charArray = s.toCharArray();
-
-        // Perform the swaps
         k = k%s.length();
         System.out.print(k);
-        
-        swap(charArray, k, s.length()-1);
         swap(charArray, 0, k-1 );
-        swap(charArray, 0, s.length()-1);
+        swap(charArray, k, s.length()-1);
         
-        // Convert the char array back to a string and return it
-        // System.out.print(new String(charArray));
+        swap(charArray, 0, s.length()-1);
         return new String(charArray);
     }
 
