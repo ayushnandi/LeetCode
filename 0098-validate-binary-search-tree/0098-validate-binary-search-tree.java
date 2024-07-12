@@ -16,11 +16,6 @@
 class Solution {
     int prev = 0;
     public boolean isValidBST(TreeNode root) {
-        // if(root == null)return true;
-        // if(prev >= root.val)return false;
-        // System.out.println(root.val);
-        // prev = root.val;
-        // return isValidBST(root.left) && isValidBST(root.right);
         ArrayList <Integer> arr = new ArrayList<>();
         helper(root, arr);
         for(int i = 1 ; i < arr.size() ; i++ ){
