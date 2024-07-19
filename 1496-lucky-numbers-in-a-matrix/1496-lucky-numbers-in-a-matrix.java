@@ -7,12 +7,12 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>(); 
         for(int i = 0 ; i < arr.length ; i++ ){
            col[i] = Rmin(arr,i);
-           System.out.println(col[i]);
+        //    System.out.println(col[i]);
            map.put(col[i],map.getOrDefault(col[i],0)+1);
         }
         for(int i = 0 ; i < arr[0].length ; i++ ){
             row[i] = Vmax(arr,i);
-            System.out.println(row[i]);
+            // System.out.println(row[i]);
             if(map.containsKey(row[i])){
                 list.add(row[i]);
                 return list;
