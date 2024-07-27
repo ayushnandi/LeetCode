@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -93,12 +94,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2481-strictly-palindromic-number](https://github.com/ayushnandi/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
