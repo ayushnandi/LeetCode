@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ayushnandi/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushnandi/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushnandi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -220,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
