@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushnandi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ayushnandi/LeetCode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ayushnandi/LeetCode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ayushnandi/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
