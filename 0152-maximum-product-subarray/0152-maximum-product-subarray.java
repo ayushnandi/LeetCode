@@ -1,27 +1,14 @@
 class Solution {
     public int maxProduct(int[] nums) {
-        if (nums == null || nums.length == 0) {
-            return 0;
+        double pref = 1,suf = 1;
+        double max =Integer.MIN_VALUE;
+        for(int i = 0 ; i < nums.length ; i++ ){
+            if(pref==0)pref =1;
+            if(suf==0)suf =1;
+            pref *= nums[i];
+            suf *= nums[nums.length-i-1];
+            max = Math.max(max, Math.max(pref,suf));
         }
-        int maxProduct = nums[0];
-        int minProduct = nums[0];
-        int result = nums[0];
-        
-        for (int i = 1; i < nums.length; i++) {
-            int current = nums[i];
-            if (current < 0) {
-                // Swap maxProduct and minProduct when current is negative
-                int temp = maxProduct;
-                maxProduct = minProduct;
-                minProduct = temp;
-            }
-            
-            maxProduct = Math.max(current, maxProduct * current);
-            minProduct = Math.min(current, minProduct * current);
-            
-            result = Math.max(result, maxProduct);
-        }
-        
-        return result;
+        return (int)max;
     }
 }
