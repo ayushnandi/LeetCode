@@ -1,36 +1,20 @@
-/*
-// Definition for a Node.
-class Node {
-    public int val;
-    public List<Node> children;
 
-    public Node() {}
-
-    public Node(int _val) {
-        val = _val;
-    }
-
-    public Node(int _val, List<Node> _children) {
-        val = _val;
-        children = _children;
-    }
-};
-*/
 
 class Solution {
-    ArrayList<Integer> list = new ArrayList<>();
+    // List to store the postorder traversal result
+    ArrayList<Integer> result = new ArrayList<>();
+
     public List<Integer> postorder(Node root) {
-        if(root==null)return list;
-        postorder1(root);
-        list.add(root.val);
-        return list;
-    }
-    public List<Integer> postorder1(Node root) {
-        if(root==null)return list;
-        for(int i = 0; i < root.children.size() ; i++ ){
-            postorder1(root.children.get(i));
-            list.add(root.children.get(i).val);
+        if (root == null) return result;
+
+        // Recursively call postorder on each child
+        for (Node child : root.children) {
+            postorder(child);
         }
-        return list;
+
+        // After all children are processed, add the current node's value
+        result.add(root.val);
+
+        return result;
     }
 }
