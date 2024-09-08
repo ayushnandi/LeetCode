@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0725-split-linked-list-in-parts](https://github.com/ayushnandi/LeetCode/tree/master/0725-split-linked-list-in-parts) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ayushnandi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ayushnandi/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/ayushnandi/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayushnandi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
