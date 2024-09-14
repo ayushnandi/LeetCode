@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushnandi/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2411-spiral-matrix-iv](https://github.com/ayushnandi/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2502-sort-the-people](https://github.com/ayushnandi/LeetCode/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushnandi/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ayushnandi/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ayushnandi/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -329,6 +330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/ayushnandi/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushnandi/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1435-xor-queries-of-a-subarray](https://github.com/ayushnandi/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ayushnandi/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ayushnandi/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushnandi/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Strongly Connected Component
 |  |
 | ------- |
