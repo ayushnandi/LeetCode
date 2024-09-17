@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/ayushnandi/LeetCode/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/ayushnandi/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0825-max-increase-to-keep-city-skyline](https://github.com/ayushnandi/LeetCode/tree/master/0825-max-increase-to-keep-city-skyline) |
 | [0870-magic-squares-in-grid](https://github.com/ayushnandi/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/ayushnandi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/ayushnandi/LeetCode/tree/master/0273-integer-to-english-words) |
