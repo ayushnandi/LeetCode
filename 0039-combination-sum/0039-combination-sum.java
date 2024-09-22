@@ -1,7 +1,6 @@
 class Solution {
     List<List<Integer>> arr = new ArrayList<List<Integer>>();
     public List<List<Integer>> combinationSum(int[] A, int target) {
-        Arrays.sort(A);
         int n =  A.length ;
         List<Integer> arr2 = new ArrayList<Integer>();
         helper(A, target, n, 0, arr2);
