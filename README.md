@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ayushnandi/LeetCode/tree/master/0567-permutation-in-string) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ayushnandi/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1923-sentence-similarity-iii](https://github.com/ayushnandi/LeetCode/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2481-strictly-palindromic-number](https://github.com/ayushnandi/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ayushnandi/LeetCode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ayushnandi/LeetCode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayushnandi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushnandi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
 |  |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayushnandi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/ayushnandi/LeetCode/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ayushnandi/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ayushnandi/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ayushnandi/LeetCode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -335,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1720-crawler-log-folder](https://github.com/ayushnandi/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayushnandi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
 ## Tree
 |  |
