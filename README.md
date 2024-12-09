@@ -638,4 +638,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/ayushnandi/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ayushnandi/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
