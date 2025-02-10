@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/ayushnandi/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2645-pass-the-pillow](https://github.com/ayushnandi/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/ayushnandi/LeetCode/tree/master/3447-clear-digits) |
 ## Math
 |  |
 | ------- |
@@ -419,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ayushnandi/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-score-of-a-string](https://github.com/ayushnandi/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/ayushnandi/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3447-clear-digits](https://github.com/ayushnandi/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ayushnandi/LeetCode/tree/master/3451-string-compression-iii) |
 ## Stack
 |  |
@@ -433,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/ayushnandi/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushnandi/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
+| [3447-clear-digits](https://github.com/ayushnandi/LeetCode/tree/master/3447-clear-digits) |
 ## Tree
 |  |
 | ------- |
