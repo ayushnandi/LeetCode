@@ -1,25 +1,47 @@
 class Solution {
-    public int sumSubarrayMins(int[] arr) {
-        int ans = 0;
-        Stack<Integer> st = new Stack<>();
-        long mod = (long)1000000007;
-        st.push(-1);
-        for (int i= 0; i < arr.length+1; i++){
-            int currVal = 0 ;
-            if(i<=arr.length-1){
-                currVal =arr[i];
+    private int[] psee(int[] arr){
+        int[] pse = new int[arr.length];
+        Stack<Integer> st = new Stack<Integer>();
+
+        for(int i = 0; i < arr.length; i++){
+            while(!st.isEmpty() && arr[st.peek()] > arr[i]){
+                st.pop();
             }
-            while(st.peek() !=-1 && currVal<arr[st.peek()]){
-                int index = st.pop();
-                int j = st.peek();
-                int left = index - j;
-                int right = i - index;
-                long add = (left * right * (long)arr[index]) % mod;
-                ans += add ;
-                ans %= mod;
-            }
+            pse[i] = st.isEmpty() ? -1 : st.peek();
             st.push(i);
         }
-        return ans;
+
+        return pse;
+    }
+
+
+    private int[] nse(int[] arr){
+        int[] nse = new int[arr.length];
+        Stack<Integer> st = new Stack<Integer>();
+
+        for(int i = arr.length-1; i >= 0; i--){
+            while(!st.isEmpty() && arr[st.peek()] >= arr[i]){
+                st.pop();
+            }
+            nse[i] = st.isEmpty() ? arr.length : st.peek();
+            st.push(i);
+        }
+        return nse;
+    }
+    public int sumSubarrayMins(int[] arr) {
+        long mod = (long)(1e9+7);
+        long sum = 0L;
+
+        int[] left = psee(arr);
+        int[] right = nse(arr);
+
+        for(int i = 0; i < arr.length; i++){
+            long leftNu = i - left[i];
+            long rightNu = right[i] - i;
+
+            sum = (sum + (leftNu * rightNu * arr[i]) % mod) % mod;
+        }
+
+        return (int)sum;
     }
 }
