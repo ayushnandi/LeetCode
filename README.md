@@ -357,6 +357,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ayushnandi/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/ayushnandi/LeetCode/tree/master/2155-find-missing-observations) |
 | [2481-strictly-palindromic-number](https://github.com/ayushnandi/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2610-closest-prime-numbers-in-range](https://github.com/ayushnandi/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2630-alternating-digit-sum](https://github.com/ayushnandi/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [2645-pass-the-pillow](https://github.com/ayushnandi/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushnandi/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -643,6 +644,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/ayushnandi/LeetCode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ayushnandi/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Memoization
 |  |
