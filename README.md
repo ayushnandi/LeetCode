@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/ayushnandi/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ayushnandi/LeetCode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushnandi/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ayushnandi/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/ayushnandi/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayushnandi/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ayushnandi/LeetCode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushnandi/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/ayushnandi/LeetCode/tree/master/2164-two-best-non-overlapping-events) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushnandi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushnandi/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ayushnandi/LeetCode/tree/master/0567-permutation-in-string) |
 | [1755-defuse-the-bomb](https://github.com/ayushnandi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayushnandi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushnandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushnandi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ayushnandi/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -638,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/ayushnandi/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ayushnandi/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ayushnandi/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2465-shifting-letters-ii](https://github.com/ayushnandi/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ayushnandi/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3427-special-array-ii](https://github.com/ayushnandi/LeetCode/tree/master/3427-special-array-ii) |
