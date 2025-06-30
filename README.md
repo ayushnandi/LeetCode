@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0407-trapping-rain-water-ii](https://github.com/ayushnandi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/ayushnandi/LeetCode/tree/master/0494-target-sum) |
 | [0539-minimum-time-difference](https://github.com/ayushnandi/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0624-maximum-distance-in-arrays](https://github.com/ayushnandi/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0729-my-calendar-i](https://github.com/ayushnandi/LeetCode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ayushnandi/LeetCode/tree/master/0731-my-calendar-ii) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/ayushnandi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0567-permutation-in-string](https://github.com/ayushnandi/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0870-magic-squares-in-grid](https://github.com/ayushnandi/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/ayushnandi/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayushnandi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/ayushnandi/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushnandi/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0539-minimum-time-difference](https://github.com/ayushnandi/LeetCode/tree/master/0539-minimum-time-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/ayushnandi/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ayushnandi/LeetCode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -568,6 +571,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayushnandi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/ayushnandi/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -605,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ayushnandi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/ayushnandi/LeetCode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [1755-defuse-the-bomb](https://github.com/ayushnandi/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayushnandi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
