@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0118-pascals-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
