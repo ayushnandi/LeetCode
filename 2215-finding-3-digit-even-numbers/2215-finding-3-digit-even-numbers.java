@@ -12,7 +12,7 @@ class Solution {
                 for (int k = 0; k < n; k++) {
                     if (k == i || k == j) continue;
                     int number = nums[i] * 100 + nums[j] * 10 + nums[k];
-                    if (number % 2 == 0) {
+                    if ( number % 2 == 0 ){
                         set.add(number);
                     }
                 }
