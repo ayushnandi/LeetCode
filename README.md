@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushnandi/LeetCode/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ayushnandi/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ayushnandi/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -746,6 +748,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/ayushnandi/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/ayushnandi/LeetCode/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/1524-string-matching-in-an-array) |
