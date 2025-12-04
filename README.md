@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushnandi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ayushnandi/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/ayushnandi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushnandi/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushnandi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ayushnandi/LeetCode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ayushnandi/LeetCode/tree/master/0214-shortest-palindrome) |
@@ -761,6 +763,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ayushnandi/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ayushnandi/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ayushnandi/LeetCode/tree/master/2494-sum-of-prefix-scores-of-strings) |
