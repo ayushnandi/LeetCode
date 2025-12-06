@@ -459,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/ayushnandi/LeetCode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushnandi/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/ayushnandi/LeetCode/tree/master/0812-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0868-push-dominoes](https://github.com/ayushnandi/LeetCode/tree/master/0868-push-dominoes) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayushnandi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ayushnandi/LeetCode/tree/master/0952-word-subsets) |
@@ -506,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushnandi/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ayushnandi/LeetCode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0856-score-of-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0943-sum-of-subarray-minimums](https://github.com/ayushnandi/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ayushnandi/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/ayushnandi/LeetCode/tree/master/1002-maximum-width-ramp) |
