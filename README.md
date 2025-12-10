@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ayushnandi/LeetCode/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushnandi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ayushnandi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0328-odd-even-linked-list](https://github.com/ayushnandi/LeetCode/tree/master/0328-odd-even-linked-list) |
