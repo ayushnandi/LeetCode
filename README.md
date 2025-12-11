@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/ayushnandi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushnandi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -417,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/ayushnandi/LeetCode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/ayushnandi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ayushnandi/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -756,6 +758,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ayushnandi/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Rolling Hash
 |  |
