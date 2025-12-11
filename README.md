@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/ayushnandi/LeetCode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ayushnandi/LeetCode/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/ayushnandi/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushnandi/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushnandi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/ayushnandi/LeetCode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ayushnandi/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
