@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ayushnandi/LeetCode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushnandi/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0999-regions-cut-by-slashes](https://github.com/ayushnandi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/ayushnandi/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushnandi/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/ayushnandi/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ayushnandi/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/ayushnandi/LeetCode/tree/master/0952-word-subsets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushnandi/LeetCode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ayushnandi/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ayushnandi/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ayushnandi/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
