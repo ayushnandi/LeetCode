@@ -436,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ayushnandi/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ayushnandi/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushnandi/LeetCode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/ayushnandi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ayushnandi/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ayushnandi/LeetCode/tree/master/0070-climbing-stairs) |
@@ -761,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ayushnandi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0476-number-complement](https://github.com/ayushnandi/LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ayushnandi/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayushnandi/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
