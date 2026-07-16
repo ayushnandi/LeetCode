@@ -1,9 +1,10 @@
 class Solution {
     public int[] twoSum(int[] nums, int t) {
         // List<Integer> list = new ArrayList<>();
-        int [] arr = new int [2];
-        for(int i = 0 ; i < nums.length ; i++ ){
-            for(int j = i+1 ; j< nums.length ; j ++){
+        
+        int n=nums.length;
+        for(int i = 0 ; i < n ; i++ ){
+            for(int j = i+1 ; j< n ; j ++){
                 if(nums[i]+nums[j]==t ){
                     return new int [] {i,j};
                 }
