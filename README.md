@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2586-longest-square-streak-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushnandi/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushnandi/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2653-sliding-subarray-beauty](https://github.com/ayushnandi/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ayushnandi/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ayushnandi/LeetCode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -277,6 +278,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2502-sort-the-people](https://github.com/ayushnandi/LeetCode/tree/master/2502-sort-the-people) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ayushnandi/LeetCode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2653-sliding-subarray-beauty](https://github.com/ayushnandi/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [2755-extra-characters-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushnandi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushnandi/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ayushnandi/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ayushnandi/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ayushnandi/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2653-sliding-subarray-beauty](https://github.com/ayushnandi/LeetCode/tree/master/2653-sliding-subarray-beauty) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ayushnandi/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ayushnandi/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3483-alternating-groups-ii](https://github.com/ayushnandi/LeetCode/tree/master/3483-alternating-groups-ii) |
