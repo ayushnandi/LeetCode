@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/ayushnandi/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/ayushnandi/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ayushnandi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/ayushnandi/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ayushnandi/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ayushnandi/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -769,6 +770,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ayushnandi/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0731-my-calendar-ii](https://github.com/ayushnandi/LeetCode/tree/master/0731-my-calendar-ii) |
 | [1240-stone-game-ii](https://github.com/ayushnandi/LeetCode/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ayushnandi/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
