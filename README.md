@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ayushnandi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ayushnandi/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ayushnandi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/ayushnandi/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayushnandi/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ayushnandi/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayushnandi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushnandi/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushnandi/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -356,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/ayushnandi/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/ayushnandi/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/ayushnandi/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
 | [0179-largest-number](https://github.com/ayushnandi/LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
