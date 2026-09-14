@@ -475,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushnandi/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/ayushnandi/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/ayushnandi/LeetCode/tree/master/0670-maximum-swap) |
+| [0836-rectangle-overlap](https://github.com/ayushnandi/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/ayushnandi/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0870-magic-squares-in-grid](https://github.com/ayushnandi/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushnandi/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -900,4 +901,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayushnandi/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
