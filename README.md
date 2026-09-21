@@ -462,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2645-pass-the-pillow](https://github.com/ayushnandi/LeetCode/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
 | [3447-clear-digits](https://github.com/ayushnandi/LeetCode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushnandi/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ayushnandi/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3838-weighted-word-mapping](https://github.com/ayushnandi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Math
@@ -582,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3412-permutation-difference-between-two-strings](https://github.com/ayushnandi/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3447-clear-digits](https://github.com/ayushnandi/LeetCode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/ayushnandi/LeetCode/tree/master/3451-string-compression-iii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ayushnandi/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ayushnandi/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3838-weighted-word-mapping](https://github.com/ayushnandi/LeetCode/tree/master/3838-weighted-word-mapping) |
 ## Stack
