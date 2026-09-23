@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ayushnandi/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/ayushnandi/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/ayushnandi/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/ayushnandi/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/ayushnandi/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ayushnandi/LeetCode/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/ayushnandi/LeetCode/tree/master/0179-largest-number) |
@@ -786,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/ayushnandi/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ayushnandi/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0494-target-sum](https://github.com/ayushnandi/LeetCode/tree/master/0494-target-sum) |
@@ -918,4 +921,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ayushnandi/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ayushnandi/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
