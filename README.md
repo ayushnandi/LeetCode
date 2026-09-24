@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayushnandi/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushnandi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushnandi/LeetCode/tree/master/0075-sort-colors) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayushnandi/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/ayushnandi/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushnandi/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/ayushnandi/LeetCode/tree/master/0407-trapping-rain-water-ii) |
@@ -444,6 +446,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayushnandi/LeetCode/tree/master/0054-spiral-matrix) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ayushnandi/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/ayushnandi/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ayushnandi/LeetCode/tree/master/0921-spiral-matrix-iii) |
