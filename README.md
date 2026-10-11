@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2665-minimum-time-to-repair-cars](https://github.com/ayushnandi/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ayushnandi/LeetCode/tree/master/2690-house-robber-iv) |
 | [2755-extra-characters-in-a-string](https://github.com/ayushnandi/LeetCode/tree/master/2755-extra-characters-in-a-string) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushnandi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ayushnandi/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2846-robot-collisions](https://github.com/ayushnandi/LeetCode/tree/master/2846-robot-collisions) |
 | [2895-minimum-processing-time](https://github.com/ayushnandi/LeetCode/tree/master/2895-minimum-processing-time) |
@@ -917,6 +918,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ayushnandi/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayushnandi/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ayushnandi/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Combinatorics
 |  |
