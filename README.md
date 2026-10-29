@@ -680,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/ayushnandi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/ayushnandi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushnandi/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0948-sort-an-array) |
@@ -839,6 +840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushnandi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ayushnandi/LeetCode/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ayushnandi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0476-number-complement](https://github.com/ayushnandi/LeetCode/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ayushnandi/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ayushnandi/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
