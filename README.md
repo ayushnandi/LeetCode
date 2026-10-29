@@ -681,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/ayushnandi/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ayushnandi/LeetCode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ayushnandi/LeetCode/tree/master/0148-sort-list) |
+| [0190-reverse-bits](https://github.com/ayushnandi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ayushnandi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayushnandi/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ayushnandi/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushnandi/LeetCode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/ayushnandi/LeetCode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/ayushnandi/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ayushnandi/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/ayushnandi/LeetCode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/ayushnandi/LeetCode/tree/master/0476-number-complement) |
